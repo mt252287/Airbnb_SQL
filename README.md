@@ -14,6 +14,7 @@ This interactive Power BI dashboard provides data-driven insights into Airbnb li
 
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
+![Image](https://github.com/user-attachments/assets/90922035-8fa1-4457-9533-1056eb285845)
 
 ## Who Is This For?
 1. Airbnb Hosts
