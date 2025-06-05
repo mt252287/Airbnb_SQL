@@ -40,7 +40,7 @@ SET
     room_type = TRIM(room_type),
     last_review = TRIM(last_review);   
 
- # to check if it's null or blank
+ # to check if there's null or blank
 SELECT *
 FROM nyc_airbnb.duplicate1
 WHERE
