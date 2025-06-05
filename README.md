@@ -17,26 +17,26 @@ This interactive Power BI dashboard provides data-driven insights into Airbnb li
 ![Image](https://github.com/user-attachments/assets/90922035-8fa1-4457-9533-1056eb285845)
 
 ## Who Is This For?
-1. Airbnb Hosts
-Set competitive nightly rates based on real-time market data
+### 1. Airbnb Hosts
+	Set competitive nightly rates based on real-time market data
 
-Adjust minimum stay requirements to maximize occupancy
+	Adjust minimum stay requirements to maximize occupancy
 
-Identify best-performing neighborhoods for new listings
+	Identify best-performing neighborhoods for new listings
 
-2. Property Managers
-Track seasonal demand fluctuations
+### 2. Property Managers
+	Track seasonal demand fluctuations
 
-Optimize portfolio distribution (entire homes vs. private rooms)
+	Optimize portfolio distribution (entire homes vs. private rooms)
 
-Compare performance across boroughs
+	Compare performance across boroughs
 
-3. Real Estate Investors
-Spot high-growth rental markets in NYC
+### 3. Real Estate Investors
+	Spot high-growth rental markets in NYC
 
-Evaluate ROI potential by neighborhood
+	Evaluate ROI potential by neighborhood
 
-Make data-backed acquisition decisions
+	Make data-backed acquisition decisions
 
 ## Question asked
 What's the average price in Brooklyn?
@@ -47,19 +47,21 @@ How does availability vary by room type?
 
 Show price trends in Manhattan.
 
+
 ## Key Metrics
 Metric	Value
-🏠 Total Listings	50,000+
+🏠 Total Listings:- 	50,000+
 
-💰 Average Price	$152.72
+💰 Average Price:- 	$152.72
 
-📅 Avg. Availability (days/year)	112
+📅 Avg. Availability (days/year):- 	112
 
-🏙️ Neighborhoods	5 boroughs
+🏙️ Neighborhoods:- 	5 boroughs
+
 
 ## Price Influencers
 
-What makes listing prices increase?
+### What makes listing prices increase?
 
 	Price Increases By
 Room Type = Entire Home/Apt	+128.4%
@@ -73,13 +75,14 @@ Minimum Nights = <3	+22.1%
 ### By Neighborhood Group
 (Sum of available days per year)
 
-Top Areas:
+Top Areas:-
 
 Manhattan: 58,200 available days
 
 Brooklyn: 42,150 available days
 
 Queens: 23,400 available days
+
 
 ### By Room Type
 Entire Homes: 68% of available inventory
@@ -88,25 +91,32 @@ Private Rooms: 29%
 
 Shared Rooms: 3%
 
-Interactive Visuals
-1. Neighborhood Price Distribution
+## Visuals
+### 1. Neighborhood Price Distribution
 
 ![Image](https://github.com/user-attachments/assets/cbb85709-f6a7-4ed7-906a-bd4d7ad7aa8e)
 
-2. Room Type Availability By Area
+### 2. Room Type Availability By Area
 ![Image](https://github.com/user-attachments/assets/97e6effd-790c-4a48-8bed-cac6d135a8d8)
 
-3. Top 20 Hosts: Price, Reviews, and Most Booked
+### 3. Top 20 Hosts: Price, Reviews, and Most Booked
 ![Image](https://github.com/user-attachments/assets/d19a6e58-3fe9-442a-b393-ed7aa21b2f70)
 
-4. Reviews by Neighborhood and Room Type 
+### 4. Reviews by Neighborhood and Room Type 
 ![Image](https://github.com/user-attachments/assets/5aeb3d8d-63b8-462a-a86b-29db396d3000)
 
-## Top Segments
-Segment	                       Avg. Price	                            Listings
+## 🔥 Premium Listings Spotlight
+### Manhattan Entire Homes
+▸ $249/night (market premium)
+▸ 12,540 listings (largest inventory)
+Ideal for luxury travelers & business stays
 
-Manhattan Entire Homes	         $249	                                 12,540
+### Brooklyn Private Rooms
+▸ $76/night (budget-friendly)
+▸ 9,872 listings (high availability)
+Top choice for solo travelers
 
-Brooklyn Private Rooms	         $76	                                 9,872
-
-Queens Shared Rooms            	$69	                                   1,245
+### Queens Shared Rooms
+▸ $69/night (most affordable)
+▸ 1,245 listings (niche segment)
+Popular with backpackers
